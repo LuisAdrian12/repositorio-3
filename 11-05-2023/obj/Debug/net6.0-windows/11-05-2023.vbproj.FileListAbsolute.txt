@@ -1,0 +1,17 @@
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.vbproj.AssemblyReference.cache
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\_11_05_2023.Form1.resources
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.vbproj.GenerateResource.cache
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.AssemblyInfoInputs.cache
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.AssemblyInfo.vb
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.vbproj.CoreCompileInputs.cache
+C:\Luis\3° parcial\11-05-2023\bin\Debug\net6.0-windows\11-05-2023.exe
+C:\Luis\3° parcial\11-05-2023\bin\Debug\net6.0-windows\11-05-2023.deps.json
+C:\Luis\3° parcial\11-05-2023\bin\Debug\net6.0-windows\11-05-2023.runtimeconfig.json
+C:\Luis\3° parcial\11-05-2023\bin\Debug\net6.0-windows\11-05-2023.dll
+C:\Luis\3° parcial\11-05-2023\bin\Debug\net6.0-windows\ref\11-05-2023.dll
+C:\Luis\3° parcial\11-05-2023\bin\Debug\net6.0-windows\11-05-2023.pdb
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.dll
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\ref\11-05-2023.dll
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.pdb
+C:\Luis\3° parcial\11-05-2023\obj\Debug\net6.0-windows\11-05-2023.genruntimeconfig.cache
